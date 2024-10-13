@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+C:\Users\FurryFob\Desktop\АП\Лаби6\Лаб6.2\Lab06_2it\Lab06_2it\Lab06_2it.cpp(8,9): warning C4101: res: неиспользованная локальная переменная
+  (компиляция исходного файла "/UnitTest1.cpp")
+  
+     Создается библиотека C:\Users\FurryFob\Desktop\АП\Лаби6\Лаб6.2\Lab06_2it\x64\Debug\UnitTest1.lib и объект C:\Users\FurryFob\Desktop\АП\Лаби6\Лаб6.2\Lab06_2it\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\FurryFob\Desktop\АП\Лаби6\Лаб6.2\Lab06_2it\x64\Debug\UnitTest1.dll
